@@ -1,5 +1,6 @@
 # build log
-.build.log
+build.log
+*.log
 
 # files
-.notas-privadas
+notas-privadas.txt
